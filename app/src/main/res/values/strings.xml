@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">FramgiaAlarm</string>
+    <string name="app_name">Alarm2016</string>
+    <string name="label_cancel">Cancel</string>
+    <string name="label_save">Save</string>
 </resources>
